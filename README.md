@@ -7,3 +7,4 @@ git test
 
 fix branchで変更2
 on fix_branch sub で変更
+on fix/fix_branch sub3で変更
