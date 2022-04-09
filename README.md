@@ -6,3 +6,4 @@ git test
 テスト
 
 fix branchで変更2
+on fix_branch sub で変更
